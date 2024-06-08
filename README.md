@@ -16,4 +16,4 @@
                     return;
                 }
 ```
-**Usei também o "return" porque não achei outra opção, dei uma pesquisada e não achei uma opção que me ajudasse a levar o usuário de volta a reiniciar o processo que ele parou ao invés de começar tudo de novo. MAs é uma lição que quero aprender para melhorar, infelizmente com meu conhecimento atual não foi possivel.**
+<p>Usei também o <b>"return"</b> porque não achei outra opção, dei uma pesquisada e não achei uma opção que me ajudasse a levar o usuário de volta a reiniciar o processo de onde ele parou, ao invés, de começar tudo de novo. Mas é uma lição que <b>quero aprender para melhorar</b>, infelizmente com <b>meu conhecimento atual</b> não foi possivel.</p>
